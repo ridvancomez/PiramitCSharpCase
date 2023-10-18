@@ -1,0 +1,15 @@
+C:\Users\rdvnc\Desktop\Case\Case\bin\Debug\net6.0\Case.exe
+C:\Users\rdvnc\Desktop\Case\Case\bin\Debug\net6.0\Case.deps.json
+C:\Users\rdvnc\Desktop\Case\Case\bin\Debug\net6.0\Case.runtimeconfig.json
+C:\Users\rdvnc\Desktop\Case\Case\bin\Debug\net6.0\Case.dll
+C:\Users\rdvnc\Desktop\Case\Case\bin\Debug\net6.0\Case.pdb
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.csproj.AssemblyReference.cache
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.AssemblyInfoInputs.cache
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.AssemblyInfo.cs
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.csproj.CoreCompileInputs.cache
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.dll
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\refint\Case.dll
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.pdb
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\Case.genruntimeconfig.cache
+C:\Users\rdvnc\Desktop\Case\Case\obj\Debug\net6.0\ref\Case.dll
