@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rdvnc\\Desktop\\Case\\Case\\Case.csproj": {}
+    "C:\\Users\\rdvnc\\Desktop\\Projeler\\PiramitCSharpCase\\Case\\Case\\Case.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rdvnc\\Desktop\\Case\\Case\\Case.csproj": {
+    "C:\\Users\\rdvnc\\Desktop\\Projeler\\PiramitCSharpCase\\Case\\Case\\Case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rdvnc\\Desktop\\Case\\Case\\Case.csproj",
+        "projectUniqueName": "C:\\Users\\rdvnc\\Desktop\\Projeler\\PiramitCSharpCase\\Case\\Case\\Case.csproj",
         "projectName": "Case",
-        "projectPath": "C:\\Users\\rdvnc\\Desktop\\Case\\Case\\Case.csproj",
+        "projectPath": "C:\\Users\\rdvnc\\Desktop\\Projeler\\PiramitCSharpCase\\Case\\Case\\Case.csproj",
         "packagesPath": "C:\\Users\\rdvnc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rdvnc\\Desktop\\Case\\Case\\obj\\",
+        "outputPath": "C:\\Users\\rdvnc\\Desktop\\Projeler\\PiramitCSharpCase\\Case\\Case\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
